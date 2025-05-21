@@ -8,6 +8,8 @@ import Footer from "./Footer";
 import Hero from "./Hero";
 import Purpose from "./Purpose";
 import Founder from "./Founder";
+import HeroSection from "./HeroSection";
+import FadeInSection from "./FadeInSection";
 
 export {
   Navbar,
@@ -19,5 +21,7 @@ export {
   Footer,
   Hero,
   Purpose,
-  Founder
+  Founder,
+  HeroSection,
+  FadeInSection
 };

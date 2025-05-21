@@ -4,7 +4,7 @@ import binance from "./binance.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import send from "./Send.svg";
@@ -26,6 +26,8 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 import hero_img from "./hero_img.png";
 import founder_img from "./founder_img.png";
+import hero_vid1 from "./hero_vid1.mp4";
+import hero_vid2 from "./hero_vid2.mp4";
 
 export {
   airbnb,
@@ -55,5 +57,7 @@ export {
   people02,
   people03,
   hero_img,
-  founder_img
+  founder_img,
+  hero_vid1,
+  hero_vid2
 };

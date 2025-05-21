@@ -9,7 +9,7 @@ const CTA = () => (
         Engineered stability and comfort—everything you need to lift stronger, move better, and perform at your peak.
       </p>
     </div>
-    <img src={hero_img} alt="billing" className="w-44" />
+    <img src={hero_img} alt="billing" className="w-60" />
   </section>
 );
 
