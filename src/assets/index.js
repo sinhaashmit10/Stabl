@@ -26,6 +26,8 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 import hero_img from "./hero_img.png";
 import founder_img from "./founder_img.png";
+import footer_img from "./footer_img.png";
+import footer_img2 from "./footer_img2.png";
 import hero_vid1 from "./hero_vid1.mp4";
 import hero_vid2 from "./hero_vid2.mp4";
 
@@ -58,6 +60,8 @@ export {
   people03,
   hero_img,
   founder_img,
+  footer_img,
+  footer_img2,
   hero_vid1,
   hero_vid2
 };

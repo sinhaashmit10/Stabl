@@ -1,5 +1,5 @@
 import styles from "../style";
-import { hero_img } from "../assets";
+import { footer_img, footer_img2 } from "../assets";
 
 const CTA = () => (
   <section className={`${styles.flexCenter} ${styles.marginY} ${styles.padding} sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}>
@@ -9,7 +9,8 @@ const CTA = () => (
         Engineered stability and comfort—everything you need to lift stronger, move better, and perform at your peak.
       </p>
     </div>
-    <img src={hero_img} alt="billing" className="w-60" />
+    <img src={footer_img2} alt="billing" className="w-60" />
+    <img src={footer_img} alt="billing" className="w-60" />
   </section>
 );
 

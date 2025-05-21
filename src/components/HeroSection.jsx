@@ -4,7 +4,13 @@ const HeroSection = () => {
   return (
     <div id="Home" className="flex flex-col items-center mt-6 lg:mt-10">
       <h1 className="text-4xl sm:text-6xl lg:text-5xl text-center tracking-wide text-white">
-        Presenting <span className="text-gradient">STABL</span>
+        Made in <span className="bg-clip-text text-transparent"
+        style={{
+          backgroundImage: "linear-gradient(to bottom, #FF9933 33%, white 66%, white 66%, #138808 66%)",
+        }}
+      >
+        India
+      </span>, for the world.
       </h1>
       {/* <p className="mt-10 text-xl text-center text-white max-w-4xl">
         World's first "solely" engineered Trainers, for lifters who don't Compromise.

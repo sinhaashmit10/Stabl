@@ -9,7 +9,7 @@ const Founder = () => (
         About the founder
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Ahmad Hamood, a 24-year-old entrepreneur, is the driving force behind Stabl. Currently pursuing a PGDM at DY Patil, Pune, Ahmad brings over three years of experience from working in three startups, including Oneistox (now Novatr), a Y Combinator-backed venture. A dedicated weightlifter and sports enthusiast, Ahmad’s deep connection to gym culture inspired him to create footwear that meets the unique needs of strength athletes. Beyond entrepreneurship, he enjoys writing articles and cares for his two pet goldfish. Based in Pune, India, Ahmad is leveraging his startup experience and passion to build Stabl into a global brand, with Y Combinator as the next step to scale his vision.
+        Ahmad Hamood, a 24-year-old entrepreneur, is the driving force behind Stabl. Currently pursuing a PGDM at DY Patil, Pune, Ahmad brings over three years of experience from working in three startups, including Oneistox (now Novatr), a Y Combinator-backed venture. A dedicated weightlifter and sports enthusiast, Ahmad’s deep connection to gym culture inspired him to create footwear that meets the unique needs of strength athletes. Beyond entrepreneurship, he enjoys writing articles and cares for his two pet goldfish. Based in Pune, India, Ahmad is leveraging his startup experience and passion to build Stabl into a global brand, be an early investor for the giants have had their run. Now it’s our turn to build from the bar up.
       </p>
     </div>
     <div className={layout.sectionImgReverse}>

@@ -9,7 +9,7 @@ const About = () => (
         The Hero Shoe <br className="sm:block hidden" /> by Stabl
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        The Hero Shoe caters to everyday gym-goers, offering a perfect blend of stability and versatility for dynamic workouts.
+        The Hero Shoe (Projekt-1) caters to everyday gym-goers, offering a perfect blend of stability and versatility for dynamic workouts.
       </p>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         *Original designs revealing soon.
